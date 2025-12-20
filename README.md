@@ -20,6 +20,8 @@ No design files, firmware or configuration files are published here at this time
 
 [![MFF – Mini Four Feeder | First Official Footage](https://img.youtube.com/vi/048uBuayx-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=048uBuayx-M)
 
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=048uBuayx-M)
+
 _First official footage of the **MFF (Mini Four Feeder)** project.  
 Work in progress – announcement only._
 
