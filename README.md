@@ -102,7 +102,7 @@ Project information page — no files released.
 Most of my work is open-source.  
 If it helped you, consider buying me a coffee.
 
-https://buymeacoffee.com/scopsowldesigns
+https://ko-fi.com/mff_team
 
 ## 🔹 Voron Attribution & Disclaimer
 
