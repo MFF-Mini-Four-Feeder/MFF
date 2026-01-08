@@ -1,6 +1,6 @@
 # MFF – Mini Four Feeder
 
-![MFF – Mini Four Feeder render](media/renders/mff_v1.0.png)
+![MFF – Mini Four Feeder render](media/renders/MFF_Mini_Four_Feeder.png)
 
 **MFF (Mini Four Feeder)**  
 Compact Multi Material System for Klipper
@@ -13,17 +13,6 @@ filament system **based on the Voron M4 extruder design**.
 This repository currently serves as a **public information and announcement
 page only**.  
 No design files, firmware or configuration files are published here at this time.
-
----
-
-## First Official Footage
-
-[![MFF – Mini Four Feeder | First Official Footage](https://img.youtube.com/vi/048uBuayx-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=048uBuayx-M)
-
-[▶ Watch on YouTube](https://www.youtube.com/watch?v=048uBuayx-M)
-
-_First official footage of the **MFF (Mini Four Feeder)** project.  
-Work in progress – announcement only._
 
 ---
 
